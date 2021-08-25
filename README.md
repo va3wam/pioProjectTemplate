@@ -4,8 +4,7 @@ Template used to create new VA3WAM platformIO/Visual Studio Code projects. Repla
 
 ## Getting Started
 
-There are a set of standards and practices laid out [here](https://va3wam.github.io/)that explain the comon elements of all VA3WAM projects. The sections below provide specific links that point to the instructions that will help you get a copy of this project up and running on
-your local machine for development and testing purposes. 
+There are a set of standards and practices laid out [here](https://va3wam.github.io/) that explain the comon elements of all VA3WAM projects. The sections below provide specific links that point to the instructions that will help you get a copy of this project up and running on your local machine for development and testing purposes. 
 
 ### Prerequisites
 
@@ -46,9 +45,9 @@ repository](https://github.com/va3wam/pioProjectTemplate/releases). ```Update wi
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md)
+This project is licensed under the [MIT License](https://mit-license.org/)
 
 ## Acknowledgments
 
-  - List links/peope etc that provided help or inspirtation here. 
+  - List links/people etc that provided help or inspirtation here. 
 
