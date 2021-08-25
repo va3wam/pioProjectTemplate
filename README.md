@@ -45,7 +45,7 @@ repository](https://github.com/va3wam/pioProjectTemplate/releases). ```Update wi
 
 ## License
 
-This project is licensed under the [MIT License](https://mit-license.org/)
+This project is licensed under the [MIT License](license.md)
 
 ## Acknowledgments
 
