@@ -29,7 +29,7 @@ At this time we use serial over USB to load the inital code onto the embedded sy
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
+Please read [CONTRIBUTING.md](contributing.md) for details on our code
 of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
