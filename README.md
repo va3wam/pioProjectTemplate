@@ -14,6 +14,10 @@ A full breakdown of the requirements for tools needed for coding testing and man
 
 A set of instructions on how to install the source code for VA3WAM projects can be found [here](https://va3wam.github.io/versionControl/). 
 
+### Documentation
+
+``` Maintain a list of links to the documentation found in this repository here.```
+
 ## Running the tests
 
 At this time we have no tools or standards for automated testing of Arduino code on an embedded system. 
@@ -49,5 +53,5 @@ This project is licensed under the [MIT License](license.md)
 
 ## Acknowledgments
 
-  - List links/people etc that provided help or inspirtation here. 
+``` Maintain a list of links/people etc that provided help or inspirtation here.``` 
 
