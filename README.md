@@ -1,6 +1,6 @@
 # pioProjectTemplate (replace with project title)
 
-Template used to create new VA3WAM platformIO/Visual Studio Code projects. Replace this text with one Paragraph of the project description.
+Template used to create new VA3WAM platformIO/Visual Studio Code projects. Replace this text with one Paragraph of the project description. The goals for this project can be found [here](goals.md).
 
 ## Getting Started
 
