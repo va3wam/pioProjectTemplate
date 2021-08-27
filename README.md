@@ -4,7 +4,7 @@
 
 ---
 
-Template used to create new VA3WAM platformIO/Visual Studio Code projects. Replace this text with one Paragraph of the project description. The goals for this project can be found [here](goals.md).
+Template used to create new VA3WAM platformIO/Visual Studio Code projects. Replace this text with one Paragraph of the project description. The goals for this project can be found [here](https://va3wam.github.io/software/#standards).
 
 ## Getting Started
 
