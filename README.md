@@ -1,5 +1,9 @@
 # pioProjectTemplate (replace with project title)
 
+[![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
+
+---
+
 Template used to create new VA3WAM platformIO/Visual Studio Code projects. Replace this text with one Paragraph of the project description. The goals for this project can be found [here](goals.md).
 
 ## Getting Started
