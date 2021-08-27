@@ -4,11 +4,11 @@
 
 ---
 
-Template used to create new VA3WAM platformIO/Visual Studio Code projects. Replace this text with one Paragraph of the project description. The goals for this project can be found [here](https://va3wam.github.io/software/#standards).
+Template used to create new VA3WAM platformIO/Visual Studio Code projects. Replace this text with one Paragraph of the project description. The goals for this project can be found [here](goals.md).
 
 ## Getting Started
 
-There are a set of standards and practices laid out [here](https://va3wam.github.io/) that explain the comon elements of all VA3WAM projects. The sections below provide specific links that point to the instructions that will help you get a copy of this project up and running on your local machine for development and testing purposes. 
+There are a set of standards and practices laid out [here](https://va3wam.github.io/software/#standards) that explain the comon elements of all VA3WAM projects. The sections below provide specific links that point to the instructions that will help you get a copy of this project up and running on your local machine for development and testing purposes. 
 
 ### Prerequisites
 
